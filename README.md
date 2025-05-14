@@ -1,25 +1,25 @@
 <h1 align="center">Hi, I'm Bilal</h1>
 <p align="center">
-  <i>Code is my rebellion, logic is my weapon.</i>
+  <i>Code is my rebellion, Python is my sword.</i>
 </p>
 
 ---
 
 ### About Me
 
-- **Full-stack developer in progress.**  
-- **Machine learning enthusiast** – data is more than just numbers to me.  
-- I enjoy building clean, functional interfaces and powerful backend engines.  
-- I’m currently learning **C#**, improving my **JavaScript**, and exploring **Flask**.  
-- Accepted to **Akbank AI Bootcamp** – and that’s just the beginning.
+- **Full-stack developer in progress**, with a strong love for **Python**  
+- **Machine learning explorer** – data speaks, I listen  
+- I enjoy building smart, functional interfaces and powerful backend systems  
+- Currently diving deeper into **Flask**, polishing my **JavaScript**, and leveling up in `C#`  
+- Proud participant of the **Akbank AI Bootcamp**
 
 ---
 
 ### Tech Stack
 
-- **Languages:** JavaScript, Python, C#, Java, SQL  
+- **Languages:** `Python`, JavaScript, `C#`, Java, SQL  
 - **Frontend:** HTML, CSS, JavaScript (Vanilla)  
-- **Backend:** Flask (Python), .NET (beginner)  
+- **Backend:** Flask, .NET (beginner)  
 - **Tools:** VS Code 2022, Git & GitHub  
 - **Database:** MySQL, SQLite
 
@@ -27,14 +27,14 @@
 
 ### Goals
 
-- Be the **#1 Full-Stack Developer** in my program  
-- Build meaningful projects that solve real problems  
-- Never settle for “normal” – I'm not made for it  
-- Combine machine learning & web development for smart applications
+- Become a **top-tier Full-Stack Developer**  
+- Build Python-powered intelligent applications  
+- Combine clean design with smart algorithms  
+- Never fit in — I was made to stand out
 
 ---
 
-### “I’d rather fail with fire in my heart than succeed with nothing in my soul.”
+### “I'd rather build the future in Python than maintain the past in silence.”
 
 ---
 
